@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "555_Badge.lib")(type "KiCad")(uri "${KIPRJMOD}/555_Badge.lib.kicad_sym")(options "")(descr ""))
+)
